@@ -13,9 +13,7 @@ All information is saved in **MYSQL** database as well as in **files**.
 ## Images:
 ### 1.Hospital Management System.
 ![software]()
-### 2.Database Photo.
-![database]()
-### 3.Data saved in File.
+### 2.Data saved in File.
 ![file]()
 
 
