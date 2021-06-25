@@ -14,6 +14,6 @@ All information is saved in **MYSQL** database as well as in **files**.
 ### 1.Hospital Management System.
 ![software](https://github.com/Nikhil-Mane/Hospital-Management-System/blob/main/Hospital%20Management%20System.JPG)
 ### 2.Data saved in File.
-![file]()
+![file](https://github.com/Nikhil-Mane/Hospital-Management-System/blob/main/billing%20data.JPG)
 
 
